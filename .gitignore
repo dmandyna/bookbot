@@ -1,2 +1,5 @@
 # JetBrains Editor Config Files
-/.idea/*
+/.idea
+
+# Project Files
+/books
